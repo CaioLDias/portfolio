@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    font-family: "JetBrains Mono", sans-serif;
+}
+:root {
+    --bg-color:#141414;
+    --second-bg-color: #191919;
+    --text-color: white;
+    --main-color: #0077ff;
+}
